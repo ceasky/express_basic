@@ -1,0 +1,20 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.items{
+  display: flex;
+  gap:10px;
+}
+
+.item{
+  background-color: gray;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+a{
+  color:white;
+  text-decoration: none;
+}
